@@ -45,13 +45,6 @@ The project includes the following core tables:
 - MySQL Workbench or CLI for DB management
 - Optional: XAMPP / WAMP / local server if using PHP
 
-### Setup Instructions
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-mysql.git
-   cd ecommerce-mysql
 
 ### 📈 Project Goals
 - Practice writing SQL queries for real-world business scenarios.

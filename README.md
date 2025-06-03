@@ -1,6 +1,7 @@
 
 # 🛒 E-commerce Project (MySQL-based)
-
+## Author
+- [@NiteshKumar76](https://www.github.com/octokatherine)
 ## 📋 Project Overview
 
 This is a backend-driven E-commerce system built using **MySQL** for managing product listings, user accounts, orders, payments, and inventory. It is designed to simulate the core functionality of an online shopping platform.
